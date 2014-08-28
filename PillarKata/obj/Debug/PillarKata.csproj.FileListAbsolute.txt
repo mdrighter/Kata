@@ -1,0 +1,9 @@
+E:\SandBox\PillarKata\PillarKata\obj\Debug\PillarKata.csprojResolveAssemblyReference.cache
+E:\SandBox\PillarKata\PillarKata\bin\Debug\PillarKata.dll
+E:\SandBox\PillarKata\PillarKata\bin\Debug\PillarKata.pdb
+E:\SandBox\PillarKata\PillarKata\bin\Debug\Moq.dll
+E:\SandBox\PillarKata\PillarKata\bin\Debug\nunit.framework.dll
+E:\SandBox\PillarKata\PillarKata\bin\Debug\Moq.xml
+E:\SandBox\PillarKata\PillarKata\bin\Debug\nunit.framework.xml
+E:\SandBox\PillarKata\PillarKata\obj\Debug\PillarKata.dll
+E:\SandBox\PillarKata\PillarKata\obj\Debug\PillarKata.pdb
